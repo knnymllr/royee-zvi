@@ -1,0 +1,9 @@
+<header>
+    <nav>
+        <ul class="navbar">
+            {%- for nav in collections.nav -%}
+            <li class="nav-item"><a class="nav-link" href="{{ nav.url }}">{{ nav.data.title }}</a></li>
+            {%- endfor -%}
+        </ul>
+    </nav>   
+</header>
