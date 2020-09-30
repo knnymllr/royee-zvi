@@ -16,7 +16,7 @@ a:hover {
 }
 
 /* nav */
-.navbar {
+.nav-bar {
   padding: 0;
   margin: 0;
   display: -webkit-box;
@@ -34,10 +34,14 @@ a:hover {
           align-items: center;
 }
 
-.navbar li {
+.nav-item {
   text-transform: uppercase;
-  list-style: none;
+  list-style-type: none;
   font-size: 2vw;
+}
+
+.nav-item:before {
+  content: "\200B";
 }
 
 /* footer */

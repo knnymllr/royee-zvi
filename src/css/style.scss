@@ -20,20 +20,24 @@ a:hover {
 
 /* nav */
 
-.navbar {
-    padding:0;
-    margin:0;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-    align-items:center;
-  }
-  
-  .navbar li {
-    text-transform: uppercase;
-    list-style: none;
-    font-size:2vw;  
-  }
+.nav-bar {
+  padding:0;
+  margin:0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items:center;
+}
+
+.nav-item {
+  text-transform: uppercase;
+  list-style-type: none;
+  font-size:2vw;  
+}
+
+.nav-item:before {
+  content: "\200B"; 
+}
 
 /* footer */
 
