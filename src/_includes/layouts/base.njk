@@ -1,24 +1,43 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title> {{ site.name }} </title>
-  <meta name="author" content="{{ site.author }}">
-  <meta name="description" content="{{ site.description }}">
-  <link rel="icon" href="{{ site.favicon }}" type="image/svg+xml" />  
-  <link href="/css/style.css" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> {{title}} | {{ site.name }} </title>
+    <meta name="author" content="{{ site.author }}">
+    <meta name="description" content="{{ site.description }}">
+    <link rel="icon" href="{{ site.favicon }}" type="image/svg+xml" />  
+
+    {% set css %}
+        {% include "css/style.css" %}
+        {% include "css/simple-scrollbar.css"%}
+    {% endset %}
+ 
+    <style>
+        {{ css | cssmin | safe }}
+    </style>
 </head>
-
-{% include "partials/nav.html" %}
-
 <body>
-    <main>
-        {{ content | safe }}
-    </main>
-    <script src="js/main.js"></script>
+    <header>
+        <!-- banner?? --> 
+    </header>
+    <div class="two-column">
+        {% include "partials/nav.html" %}
+        <main class="two-col-left" ss-container>
+            <h1>Testing Template</h1>
+            <p>This should display the title on every page here: <span style="font-weight:bold">{{ title }}</span></p>
+            <p>Lorem Ipsum should only display on home page.</p>
+            {{ content | safe }}
+        </main>
+    </div>
+    {% set js %}
+        {% include "js/main.js" %}
+        {% include "js/simple-scrollbar.min.js"%}
+    {% endset %}
+   
+    <script>
+        {{ js | jsmin | safe }}
+    </script>
+    {% include "partials/footer.html" %}
 </body>
-
-{% include "partials/footer.html" %}
-
 </html>

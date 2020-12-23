@@ -1,0 +1,23 @@
+---
+title: Hmm...
+image: 
+permalink: "404/"
+---
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>{{ title }}</title>
+    </head>
+    <body>
+        <h1>{{ title }}</h1>
+        <p>The content you are looking for is not located on this page. Try one of these:</p>
+        <ul class="nav-box">
+            {%- for nav in collections.nav -%}
+                <li class="nav-item"><a class="nav-link" href="{{ nav.url }}">{{ nav.data.title }}</a></li>
+            {%- endfor -%}
+        </ul>
+        <p>Send me an <a href="mailto:knnthrmllr@gmail.com">email</a>.</p>
+    </body>
+</html>

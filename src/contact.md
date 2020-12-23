@@ -1,7 +1,5 @@
 ---
 layout: layouts/base
-title: Two
+title: Contact
 tags: nav
 ---
-
-# Two

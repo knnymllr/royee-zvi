@@ -1,7 +1,5 @@
 ---
 layout: layouts/base
-title: One
+title: About
 tags: nav
 ---
-
-# One

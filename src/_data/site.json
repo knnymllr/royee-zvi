@@ -1,8 +1,8 @@
 {
-    "name": "New Website",
-    "url": "",
+    "name": "Kenny Miller | Web Developer",
+    "url": "https://knnymllr.com",
     "author": "Kenny Miller",
-    "description": "",
-    "favicon": "img/default-icon.svg"
-
+    "title": "Full stack web developer, musician, game designer, blah blah blah.",
+    "description": "This is the site description",
+    "favicon": "/img/default-icon.svg"
 }
