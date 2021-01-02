@@ -1,0 +1,14 @@
+---
+layout: layouts/base
+---
+<div class="published">
+  {{ content }}
+  {% for post in collections.published %}
+    <article>
+      <h1>
+        <a href="{{ post.url | url }}">{{ post.data.title }}</a>
+      </h1>
+      <p>{{post.data.description}}</p>
+    </article>
+  {% endfor %}
+</div>

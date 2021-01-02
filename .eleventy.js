@@ -20,10 +20,18 @@ module.exports = function (eleventyConfig) {
           callback(null, code);
         }
       });
+    
+    /* eleventyConfig.setFrontMatterParsingOptions({
+        excerpt: true,
+        excerpt_alias: 'excerpt'
+        // default separator "---"
+      }); */
+      
 
     eleventyConfig.addPassthroughCopy("_includes/src/css");
     eleventyConfig.addPassthroughCopy("_includes/src/js");
     eleventyConfig.addPassthroughCopy("src/img");
+    eleventyConfig.addPassthroughCopy("src/fonts");
 
     return {
         dir: {

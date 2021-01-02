@@ -1,20 +1,8 @@
 <nav>
-    <div class="nav-img">
-        <div class="profile-bg">
-            <img src="/img/provo.jpg" alt="" />
-        </div>
-        <img class="profile-img" src="/img/kenny.jpeg" alt=""/>
-        <h1>{{ site.author }}</h1>
-        <p>{{site.title}}</p>
-    </div>
-    <ul class="nav-box">
-        {%- for nav in collections.nav -%}
-            <li class="nav-item"><a class="nav-link" href="{{ nav.url }}">{{ nav.data.title }}</a></li>
-        {%- endfor -%}
-    </ul>
-    <ul class="nav-box">
-        <li class="nav-item new-window"><a class="nav-link" href="https://codepen.io/knnymllr">CodePen</a></li>
-        <li class="nav-item new-window"><a class="nav-link" href="https://github.com/knnymllr">Github</a></li>
-        <li class="nav-item new-window"><a class="nav-link" href="https://www.linkedin.com/in/kenny-miller-698263a0/">LinkedIn</a></li>
+    <h1><a href="/">Royee Zvi Atadgy</a></h1>
+    <ul>
+        <li><a href="/about">About</a></li>
+        <li><a href="/published-stories">Published Stories</a></li>
+        <li><a href="/contact">Contact</a></li>
     </ul>
 </nav>

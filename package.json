@@ -16,7 +16,6 @@
   },
   "dependencies": {
     "clean-css": "^4.2.3",
-    "simple-scrollbar": "^0.4.0",
     "terser": "^5.5.1"
   }
 }

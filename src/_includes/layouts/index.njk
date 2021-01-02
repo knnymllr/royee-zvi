@@ -2,16 +2,18 @@
 layout: layouts/base
 ---
 
+<img class="top-img" src="{{ image }}" alt="Royee Zvi Atadgy, Snow-covered landscape. Chester County, PA"/>
+
 {{ content | safe }}
 
-
-<!-- 
-
-loop posts (see ogden studio blog)
-
-    <picture src site.authorImg > Posted by site.author | date
-        post.data.description
-        post.data.images[0] (preview image)
-        post.tags
-
- -->
+<div class="stories">
+  {{ content }}
+  {% for post in collections.stories %}
+    <article>
+      <h1>
+        <a href="{{ post.url | url }}">{{ post.data.title }}</a>
+      </h1>
+      <p>{{post.data.description}} <a href="{{ post.url | url }}">[Read more]</a></p>
+    </article>
+  {% endfor %}
+</div>
