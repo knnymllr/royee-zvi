@@ -1,7 +1,13 @@
 ---
 title: What I Wanted
-tags: stories
-layout: layouts/base
+description: 
+    What I wanted I could<br />
+    not have<br />
+    at least for a time<br />
+    what to do with information like that?<br />
+    what else to do<br />
+    except...
+altDescription: What I wanted I could not have at least for a time what to do with information like that?
 ---
 
 What I wanted I could<br>

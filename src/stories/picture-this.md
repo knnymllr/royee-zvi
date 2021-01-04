@@ -1,8 +1,6 @@
 ---
 title: Picture This
 description: Three men all hugging and crying in the living room; my father, my brother, and me. The last time I saw it was when the Phillies won the World Series. But this was not that. Mother died, father said, and apologized as if he thought we thought it was his fault, like it wasn’t cancer but some negligence of his, like he forgot to replace batteries in a smoke alarm. As if we didn’t already know why we were woken up in the middle of the night! Why I was woken up, I mean. I had just been there a few hours before, turning on the fan for my mother by her bed and then asking if she needed anything else, and after my mother gasped the word “water” I got her a glass half full. And later, having to go get my brother out of work and drive for an hour from our small town to their small town, thinking there is still a chance that she was alive...
-tags: stories
-layout: layouts/base
 ---
 
 Three men all hugging and crying in the living room; my father, my brother, and me. The last time I saw it was when the Phillies won the World Series. But this was not that. Mother died, father said, and apologized as if he thought we thought it was his fault, like it wasn’t cancer but some negligence of his, like he forgot to replace batteries in a smoke alarm. As if we didn’t already know why we were woken up in the middle of the night! Why I was woken up, I mean. I had just been there a few hours before, turning on the fan for my mother by her bed and then asking if she needed anything else, and after my mother gasped the word “water” I got her a glass half full. And later, having to go get my brother out of work and drive for an hour from our small town to their small town, thinking there is still a chance that she was alive. 

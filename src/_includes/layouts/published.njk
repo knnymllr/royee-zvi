@@ -8,7 +8,8 @@ layout: layouts/base
       <h1>
         <a href="{{ post.url | url }}">{{ post.data.title }}</a>
       </h1>
-      <p>{{post.data.description}}</p>
+      <p class="italic">{{ post.data.publication }}</p>
     </article>
+    <hr class="rounded">
   {% endfor %}
 </div>

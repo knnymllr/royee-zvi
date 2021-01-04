@@ -1,7 +1,15 @@
 ---
 title: September
-tags: stories
-layout: layouts/base
+description:
+    I tried to tell them,<br />
+    there is more<br /><br />
+    I tell the rabbi,<br />
+    my father,<br />
+    the funeral home,<br />
+    Dignity Memorial USA,<br />
+    anyone who will listen<br />
+    that she was my mother but she was more than that...
+altDescription: I tried to tell them, there is more I tell the rabbi, my father, Dignity Memorial USA, anyone who will listen that she was my mother but she was more than that
 ---
 
 I tried to tell them,<br>
