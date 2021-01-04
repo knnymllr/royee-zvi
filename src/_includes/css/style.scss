@@ -61,6 +61,10 @@ main {
   margin:50px 20vw;
 }
 
+@media only screen and (max-width:800px) {
+  main {margin:50px 5vw;}
+}
+
 hr.rounded {
   border-top:solid $grey 5px;
   border-radius:5px;
