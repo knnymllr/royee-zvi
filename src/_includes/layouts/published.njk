@@ -1,15 +1,15 @@
 ---
 layout: layouts/base
 ---
-<div class="published">
+<div class="default__grid">
   {{ content }}
   {% for post in collections.published %}
-    <article>
+    <article class="grid-cols-full big:grid-cols-full">
       <h1>
         <a href="{{ post.url | url }}">{{ post.data.title }}</a>
       </h1>
       <p class="italic">{{ post.data.publication }}</p>
     </article>
-    <hr class="rounded">
+    <hr class="rounded grid-cols-full">
   {% endfor %}
 </div>

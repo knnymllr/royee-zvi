@@ -1,17 +1,19 @@
+--- 
+layout: layouts/base 
 ---
-layout: layouts/base
----
-
-{{ content | safe }}
-
-<div class="stories">
+<section class="stories">
   {{ content }}
   {% for post in collections.stories %}
-    <article>
-      <h1>
-        <a href="{{ post.url | url }}">{{ post.data.title }}</a>
-      </h1>
-      <p>{{post.data.description | safe }} <a href="{{ post.url | url }}">[Read more]</a></p>
+    <article class="default__grid">
+      <div class="grid-cols-full big:grid-cols-half">
+        <h1>
+          <a href="{{ post.url | url }}">{{ post.data.title }}</a>
+        </h1>
+        <p class="italic">by {{ site.title }}</p>
+      </div>
+      <p class="grid-cols-full big:grid-cols-half">{{post.data.description | safe }}
+        <a href="{{ post.url | url }}">[Read more]</a>
+      </p>
     </article>
   {% endfor %}
-</div>
+</section>

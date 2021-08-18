@@ -1,8 +1,15 @@
+--- 
+layout: layouts/base 
 ---
-layout: layouts/base
----
-
-<h1 class="center">{{ title }}</h1>
-
-{{ content | safe }}
-
+<section class="default__grid story">
+    <div class="grid-cols-full big:grid-cols-full">
+        <h1>{{ title }}</h1>
+        <p class="italic">by
+            {{ site.title }}
+        </p>
+        <hr class="rounded"/>
+    </div>
+    <div class="grid-cols-full big:grid-cols-full">
+        {{ content | safe }}
+    </div>
+</section>

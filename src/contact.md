@@ -1,5 +1,5 @@
 ---
-layout: layouts/about
+layout: layouts/contact
 ---
 
 e-mail: ratadgy@gmail.com
