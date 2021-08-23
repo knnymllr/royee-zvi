@@ -1,4 +1,4 @@
 ---
 layout: layouts/index
-image: /img/home.JPG
+image: /img/home.webp
 ---
