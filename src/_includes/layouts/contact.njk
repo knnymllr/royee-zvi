@@ -3,6 +3,6 @@ layout: layouts/base
 ---
 <section class="default__grid">
 <div class="grid-cols-full big:grid-cols-full">
-        {{ content | safe }}
+        {{ contact.text | markdown | safe }}
 </div>
 </section>

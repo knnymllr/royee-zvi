@@ -19,7 +19,7 @@
         {% include "partials/nav.html" %}
     </header>
     {% if image %}
-    <img class="top-img" src="{{ image }}" alt="Royee Zvi Atadgy, Snow-covered landscape. Chester County, PA"/>
+    <img class="top-img" src="{{ index.index_image }}" alt="{{ index.index_image_alt }}"/>
     {% endif %}
     <main class="{{page.fileSlug}}-main">
         {{ content | safe }}

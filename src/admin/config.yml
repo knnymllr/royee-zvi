@@ -1,0 +1,45 @@
+backend:
+  name: git-gateway
+  branch: master
+
+# Enable local backend for working with local repo
+# https://www.netlifycms.org/docs/beta-features/
+# npx netlify-cms-proxy-server
+local_backend: true
+
+# Enable drafts
+# publish_mode: editorial_workflow
+
+media_folder: "src/img"
+public_folder: "/img"
+collections:
+  - label: "Site Configuration"
+    name: "site"
+    files:
+      - label: "Footer"
+        name: "footer"
+        file: "src/_data/site.json"
+        fields:
+          - {label: Copyright, name: copyright, widget: string}
+  - label: "Pages"
+    name: "pages"
+    files:
+      - label: "Home"
+        name: "index"
+        file: "src/_data/index.json"
+        fields:
+          - {label: Image, name: index_image, widget: image}
+          - {label: Image Alt, name: index_image_alt, widget: string}
+
+      - label: "About"
+        name: "about"
+        file: "src/_data/about.json"
+        fields:
+          - {label: Text, name: about_text, widget: markdown}
+          - {label: Image, name: about_image, widget: image}
+          - {label: Image Alt, name: about_image_alt, widget: string}
+      - label: "Contact"
+        name: "contact"
+        file: "src/_data/contact.json"
+        fields:
+          - {label: Text, name: text, widget: markdown}

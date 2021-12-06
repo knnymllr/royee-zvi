@@ -3,9 +3,9 @@ layout: layouts/base
 --- 
 <section class="default__grid about">
     <div class="grid-cols-full big:grid-cols-half">
-        <p> {{ content | safe }} </p>
+        <p> {{ about.about_text | markdown | safe }} </p>
     </div>
     <figure class="grid-cols-full big:grid-cols-half">
-        <img src="/img/prof.webp" alt="{{ site.title }}">
+        <img src="{{ about.about_image }}" alt="{{ about.about_image_alt }}">
     </figure>
 </section>
