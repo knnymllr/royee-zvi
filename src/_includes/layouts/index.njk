@@ -2,7 +2,7 @@
 layout: layouts/base 
 ---
 <section class="stories">
-  {{ content }}
+  {{ content | safe }}
   {% for post in collections.stories %}
     <article class="default__grid">
       <div class="grid-cols-full big:grid-cols-half">

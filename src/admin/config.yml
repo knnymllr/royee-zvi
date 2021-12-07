@@ -13,14 +13,7 @@ local_backend: true
 media_folder: "src/img"
 public_folder: "/img"
 collections:
-  - label: "Site Configuration"
-    name: "site"
-    files:
-      - label: "Footer"
-        name: "footer"
-        file: "src/_data/site.json"
-        fields:
-          - {label: Copyright, name: copyright, widget: string}
+  
   - label: "Pages"
     name: "pages"
     files:
@@ -30,7 +23,6 @@ collections:
         fields:
           - {label: Image, name: index_image, widget: image}
           - {label: Image Alt, name: index_image_alt, widget: string}
-
       - label: "About"
         name: "about"
         file: "src/_data/about.json"
@@ -43,3 +35,36 @@ collections:
         file: "src/_data/contact.json"
         fields:
           - {label: Text, name: text, widget: markdown}
+  - label: "Stories"
+    name: "stories"
+    folder: "src/stories"
+    create: true
+    # slug: "{{ slug }}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Author", name: "author", widget: "string", default: "Royee Zvi Atadgy" }
+      - { label: "Preview", name: "description", widget: "markdown" }
+      # - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - label: "Published"
+    name: "published"
+    folder: "src/published"
+    create: true
+    # slug: "{{ slug }}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publication", name: "publication", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Author", name: "author", widget: "string", default: "Royee Zvi Atadgy" }
+      - { label: "Preview", name: "description", widget: "markdown" }
+      # - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - label: "Site Configuration"
+    name: "site"
+    files:
+      - label: "Footer"
+        name: "footer"
+        file: "src/_data/site.json"
+        fields:
+          - {label: Copyright, name: copyright, widget: string}
