@@ -6,7 +6,7 @@ description: What I wanted I could<br /> not have<br /> at least for a time<br
 altDescription: What I wanted I could not have at least for a time what to do
   with information like that?
 date: 2021-12-17T10:32:09.859Z
-author: .
+author: " "
 ---
 What I wanted I could<br>
 not have<br>
