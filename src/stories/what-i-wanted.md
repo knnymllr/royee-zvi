@@ -1,15 +1,13 @@
 ---
 title: What I Wanted
-description: 
-    What I wanted I could<br />
-    not have<br />
-    at least for a time<br />
-    what to do with information like that?<br />
-    what else to do<br />
-    except...
-altDescription: What I wanted I could not have at least for a time what to do with information like that?
+description: What I wanted I could<br /> not have<br /> at least for a time<br
+  /> what to do with information like that?<br /> what else to do<br />
+  except...
+altDescription: What I wanted I could not have at least for a time what to do
+  with information like that?
+date: 2021-12-17T10:32:09.859Z
+author: " "
 ---
-
 What I wanted I could<br>
 not have<br>
 at least for a time<br>
@@ -53,5 +51,4 @@ floating far off the coast of my jurisdiction
 to the island of you<br> 
 spelling messages in the sand<br>
 though not the usual ones<br>
-I wasn’t in need of rescue<br> 
-wanting for you
+I wasn’t in need of rescue<br>

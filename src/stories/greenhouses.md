@@ -1,8 +1,21 @@
 ---
 title: Greenhouses
-description: Looking after the greenhouses that summer with Leann. I thought it was what we both needed. What she needed, especially. But three weeks in, on a humid and rainy morning, we got real drunk on some bottles of wine we found in the dumpster behind the winery down the road. I licked some out of her navel. She lapped some out of my hand. We drew a bath and listened to the rain hammering down. And in the afternoon, after napping a bit, Leann went to the greenhouse to check the thermometers. She said she’d be right back to try and sleep some more, but after she didn’t show for almost twenty minutes, I went to check on her. That’s when I saw the long green hose strung up to the rafters and Leann trying to hang herself with it. I say trying because when she finally got her head through the loop in the hose and shoved off from the table she was standing on, her head slipped right out and she landed on her back, into a table of succulents...
+date: 2021-12-17T11:00:18.970Z
+author: " "
+description: Looking after the greenhouses that summer with Leann. I thought it
+  was what we both needed. What she needed, especially. But three weeks in, on a
+  humid and rainy morning, we got real drunk on some bottles of wine we found in
+  the dumpster behind the winery down the road. I licked some out of her navel.
+  She lapped some out of my hand. We drew a bath and listened to the rain
+  hammering down. And in the afternoon, after napping a bit, Leann went to the
+  greenhouse to check the thermometers. She said she’d be right back to try and
+  sleep some more, but after she didn’t show for almost twenty minutes, I went
+  to check on her. That’s when I saw the long green hose strung up to the
+  rafters and Leann trying to hang herself with it. I say trying because when
+  she finally got her head through the loop in the hose and shoved off from the
+  table she was standing on, her head slipped right out and she landed on her
+  back, into a table of succulents...
 ---
-
 Looking after the greenhouses that summer with Leann. I thought it was what we both needed. What she needed, especially. But three weeks in, on a humid and rainy morning, we got real drunk on some bottles of wine we found in the dumpster behind the winery down the road. I licked some out of her navel. She lapped some out of my hand. We drew a bath and listened to the rain hammering down. And in the afternoon, after napping a bit, Leann went to the greenhouse to check the thermometers. She said she’d be right back to try and sleep some more, but after she didn’t show for almost twenty minutes, I went to check on her. That’s when I saw the long green hose strung up to the rafters and Leann trying to hang herself with it. I say trying because when she finally got her head through the loop in the hose and shoved off from the table she was standing on, her head slipped right out and she landed on her back, into a table of succulents.
 
 “What the hell are you doing?” I rushed over.
@@ -33,7 +46,7 @@ After the first couple exes called Leann up to ask how she was and where she had
 
 She was sentimental to the extreme. She hoarded sentiment. Kept every little thing anyone of intimate importance ever gave her. Even from people who had really hurt her. I thought the past should stay in the past. I was one of those people who thought you learned what you learned from the people you let into your life and when they fell out of it, that was that. They’re out forever. Besides, she chose me in the end.
 
-“You run toward bad ideas like it’s your job,” I was saying. “You’d be great at chasing tornadoes, like on TV. You’d head right for it, just to be close to the danger, not knowing it’ll kill you if you get too close. Not knowing how close is too close. That’s you.”
+“You run toward bad ideas like it’s your job,” I was saying. “You’d be great at chasing tornadoes, like on TV. You’d head right for it, just to be close to the danger, not knowing it’ll kill you if you get too close. Not knowing how close is too close. That’s *you*.”
 
 We were standing in the kitchen. The cowboy from way out in Flagstaff had just called, telling Leann he had bought a farm for retired horses and wouldn’t she like to come pay a visit? The last time she saw him, he got violent and broke her nose. A few days before he called, the photographer living in Staten Island called and asked to use her photo for his gallery show. Kept reminiscing on the good old days of their creative love, conveniently leaving out that he had drugged Leann once. 
 
