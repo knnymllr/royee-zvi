@@ -1,12 +1,6 @@
 ---
 title: An Even, Perfect Burn
 publication: from Cleaver Magazine
-description:
-    Come here, he said<br /><br />
-    No, you can just watch me and then afterwards we'll go to sleep and that'll be the end of it, she said.<br /><br />
-    You mean that we'll go to sleep like it never happened.<br /><br />
-    It never did, she said.<br /><br />
-    In the glow of the single desklamp, yellow glow, onionskin, he watcher her shed her black cardigan like a snake in the darkness, revealing first the shadowy bones of her shoulderblades—very thin and on the verge of falling out of her back like two ice shelves. Then it was the middle of the back, almost all spine and the shadows played on her disks as if they were small mountain ridges in a diorama. There were two moles he had never seen before and a scar, pink-shaded, about three inches long that lay diagonally across the bottom of her left blade. He had waited forever for this. Well, not entirely forever, he thought, because by forever something else would have occupied his mind. As she revealed her arms to him, he saw where the elbows attached the two pieces of each of her arms and, as bad as it was to imagine, he couldn’t dissociate the way they looked from the bones of the cheap and thin raw chicken wings he marinated at the restaurant on Wednesday nights. He felt bad for thinking this and then replaced this feeling for the proud  and stupid other one about how she was the most beautiful girl he or any of his friends had ever seen and even just watching her undress was  like a second sort of sex to him. Now, she finished peeling off the cardigan and when she breathed, it appeared as if she had inhaled a demon that moved around in her, and exhaling, she gave it back to the  universe and, inhaling, she had it again. To him, she seemed to have so much power that she was able to do this easily, willfully, many times...
 ---
 Come here, he said.
 
@@ -16,7 +10,7 @@ You mean that we’ll go to sleep like it never happened.
 
 It never did, she said.
 
-<br>
+
 
 In the glow of the single desklamp, yellow glow, onionskin, he watched her shed her black cardigan like a snake in the darkness, revealing first the shadowy bones of her shoulder blades—very thin and on the verge of falling out of her back like two ice shelves. Then it was the middle of the back, almost all spine and the shadows played on her disks as if they were small mountain ridges in a diorama. There were two moles he had never seen before and a scar, pink-shaded, about three inches long that lay diagonally across the bottom of her left blade. He had waited forever for this. Well, not entirely forever, he thought, because by forever something else would have occupied his mind. As she revealed her arms to him, he saw where the elbows attached the two pieces of each of her arms and, as bad as it was to imagine, he couldn’t dissociate the way they looked from the bones of the cheap and thin raw chicken wings he marinated at the restaurant on Wednesday nights. He felt bad for thinking this and then replaced this feeling for the proud  and stupid other one about how she was the most beautiful girl he or any of his friends had ever seen and even just watching her undress was  like a second sort of sex to him. Now, she finished peeling off the cardigan and when she breathed, it appeared as if she had inhaled a demon that moved around in her, and exhaling, she gave it back to the  universe and, inhaling, she had it again. To him, she seemed to have so much power that she was able to do this easily, willfully, many times.
 

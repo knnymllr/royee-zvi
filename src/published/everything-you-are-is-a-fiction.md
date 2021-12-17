@@ -1,12 +1,6 @@
 ---
 title: Everything You Are is a Fiction
 publication: from Daedalus Literary Magazine
-description:
-    The obsession with a town begins like this:<br /><br />
-
-    Two women vomit into the fountain on High Street as Téa and I, on the fire escape, stare into the triangles of West Chester attics. The lights in some of them are on and the bodies in them turn their shadows against household chores or against other bodies. Like a hundred tiny plays in a hundred tiny theaters.<br /><br /> 
-
-    Téa does yet another unexpected thing and reaches into her bedroom for a brush. She makes me sit with my head in her crotch while she brushes me. It’s intimate, without being contrived. She says that even if all we do is smoke joints and have sex, even if that’s all this is while we keep the past from tantalizing us, we should connect in other ways. “Serious question––do you ever wash this thing?” This thing being the wild mass of my hair. We look out into the middle of town. Shouts pool at the street corners like rainwater. Women dressed in our nation’s colors retreat down Church from a chorus of whistling. It’s a sweltering July 4th evening. The women exit stage right from the fountain, and disappear onto Gay. The evidence of their dinner and their one too many drinks washes away in the froth of the falling water while the reflection of the pool––waves in electric blue dotted with the copper of strewn pennies––is projected onto the windows of the old courthouse like a drive-in movie. As we shift from small talk about the oppressive weather to medium talk about family histories to the kind of talk that people ask you to contribute, in quote-form, to an obit of the deceased, I do an unexpected thing and start revealing myself––as if I can trust this person I hardly know, this person whose name I’ve only just learned to pronounce properly while lying in her bed this week, charting her terrain...
 ---
 
 The obsession with a town begins like this:

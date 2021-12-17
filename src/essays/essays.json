@@ -1,0 +1,8 @@
+{
+    "layout":"layouts/story",
+    "tags":"essays",
+    "author": "{{ site.title }}",
+    "date": "",
+    "publication": "",
+    "title": ""
+}

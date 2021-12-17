@@ -57,7 +57,18 @@ collections:
       - { label: "Publication", name: "publication", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Author", name: "author", widget: "string", default: "Royee Zvi Atadgy" }
-      - { label: "Preview", name: "description", widget: "markdown" }
+      # - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - label: "Essays"
+    name: "essays"
+    folder: "src/essays"
+    create: true
+    # slug: "{{ slug }}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publication", name: "publication", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Author", name: "author", widget: "string", default: "Royee Zvi Atadgy" }
       # - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
       - { label: "Body", name: "body", widget: "markdown" }
   - label: "Site Configuration"
