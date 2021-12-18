@@ -8,11 +8,13 @@ author: Royee Zvi Atadgy
 
 **AN EXAMINATION IN SEVEN VIGNETTES**
 
-**`<br/>`**
+<br>
+
+
 
 **THE SEDER**
 
-**`<br/>`**
+<br>
 
 In the middle of the Seder, I get up from the table to retrieve the complimentary earplugs wedged inside the pocket of a pair of pants worn on the El Al flight a month prior. I tear the packaging and plug my ears, muffling the sound filling the raucous room. I return to the table just as my aunt, adorned in gold bangles and earrings, is circling the Seder plate above the children’s heads for the *Bibhilu*. She pauses and turns to me laughing.
 
@@ -30,21 +32,26 @@ But at the end of the day, I know where to go for quiet without being interrupte
 
 Floating between these spheres amounts to all the multiculturalism I can muster in my personal life. And that is quite enough for someone split along various fault-lines of identity: American/Israeli, Polish/Moroccan, Ashkenazi/Sephardic, Hebrew/English. My father feels for me. I must be questioning myself all the time, he says.
 
-**`<br/>`**
+<br>
+
+
 
 **THE HUMMUS WARS**
 
-**`<br/>`**
+<br>
+
 
 Looking outward, the one area that undoubtedly thrives in the multicultural sense here is the cuisine. Just now gaining traction in the States (one shudders at the sight of Trader Joe’s boxed falafel) Israeli cuisine is having its moment. Zahav, a Philadelphia restaurant helmed by Michael Solomonov won Best Restaurant In America in 2019.  But to define Israeli cuisine––or, more specifically, where it comes from––is hard to pin down. Many lay claim to staples like hummus. There is even an ongoing conflict (albeit with much less at stake than the usual ones) dubbed The Hummus Wars––whose belligerents, Israel and Lebanon, vie to make official their rightful place as creators of the tasty chickpea blend.
 
  In 2009, Lebanon set a Guinness Book of World Records for the largest bowl of hummus, coming in at a hefty two tons. Not to be outdone, Israel managed a four-ton dish a few months later. Outraged, Lebanese authorities went back to work in 2010, besting the Israelis with a whopping eleven-and-a-half ton plate of hummus. A 2015 venture by the Israelis to make a fifteen-ton plate succeeded, but Guinness representatives refused to travel there for the official weigh-in due to a security warning. One only wonders if–– like pulling the fire alarm before an exam––the threat of defeat led the Lebanese to extreme measures to keep the reps from certifying a decisive Israeli win in The Hummus Wars. Next time, we’ll cover The Quarter-Mile Shish Kebab.
 
-**`<br/>`**
+<br>
+
 
 **THE REAL MULTICULTURAL MCCOY**
 
-**`<br/>`**
+<br>
+
 
 Israel is a prime candidate for melding cultures, found everywhere from its *shvakim* to its offspring. Indeed, in the way that the piled-high pyramids of Turkish delights, baklava, and grain sacks of bright spices are parts of an intricate Diasporic dance, so too are the children of blonde, blue-eyed Russians and dark-skinned Yemenites, punctual Yekkes and worldly Frenchmen. Or, like me, a boisterous Moroccan and a reserved Pole. Stripped of the loaded political baggage the term “multiculturalism” carries (at least to an American like me haunted by Coexist bumper stickers) one can actually appreciate the term in its real and intended meaning here––one underpinned by a truer coexistence, however tenuous and liable, like a powder keg, to ignite every few years.
 
@@ -52,11 +59,12 @@ Israel is a prime candidate for melding cultures, found everywhere from its *shv
 
             The national obsession with not being a *freier* seeps into every corner of Israeli life. Though after being here for some time, it’s become clear that Israelis are among the biggest *freiers* in the world in what they’re willing to shell out for nearly everything. But, convinced of the merits of their own wheeling and dealing––what they call *combinot*––they are able to maintain the *freier-*free illusion they have of themselves. The malls are packed during hours which, ordinarily, I’d think people would be at work, proving the term “secondhand” is not in avid use here as much as the term “sale” is. When IKEA arrived in Kiryat Ata, my uncle told me they sold out of almost everything in under two weeks. Talk about a clash of cultures. Entire extended families obstructing the aisles trying to make heads and tails of Swedish names.
 
-**`<br/>`**
+<br>
 
 **TOURISM**
 
-**`<br/>`**
+<br>
+
 
 When my father visits from America, we head to Nazareth for *knafeh* and drive up the winding road to Daliyat al-Karmel for the weekend market. For Kosher meat, we go to Biton in Kiryat Yam. For *trayf,* there’s the Russian supermarket in Motzkin, blessedly open on Shabbat. We head up north to taste Circassian cheese. We head down south to stay with Bedouins.
 
@@ -64,11 +72,13 @@ Back from our travels and in the mood for falafel, we go to a Yemenite place tha
 
 My eyes scan the varieties of *zhug* there. I ask my father which is spiciest. He points to a brown mixture with seeds floating on the surface oil, and says, “That one, but don’t do it.” The owner looks me up and down, assessing my Ashkenazi features, and agrees with my father. “That one, very hot. You’re American? I don’t think you could handle it.” I walk over and fill a small, plastic ramekin in total silence. Both are stunned when I begin to heap it on the crispy, parsley-rich falafel. Even though I’m soon dripping sweat, clear mucus running freely from my nose, it’s the most flavorful *zhug* I’ve ever had. “Are you okay?” my dad asks, looking concerned. “Never better,” I say, crying, giving him a thumbs up.
 
-**`<br/>`**
+<br>
+
 
 **ELDER CARE**
 
-**`<br/>`**
+<br>
+
 
 My grandfather’s live-in aide is a guy from India about my age. His ringtone is “Sweet Home Alabama” and when he’s not shuttling my grandfather from wheelchair to recliner to the rolling commode, he’s watching YouTube and playing guitar. He has a family back home. Why here? I wonder.
 
@@ -78,11 +88,13 @@ The market for aides to help elderly Jews is vast. Mostly populated by folks fro
 
 My grandfather refuses to eat unless Rai does first, constantly worries about his well-being, and, during the usual Friday evening call from my uncle in New York, my grandfather outlines his plan to have Rai circumcised. In short, he sees him as family.
 
-**`<br/>`**
+<br>
+
 
 **JERUSALEM**
 
-**`<br/>`**
+<br>
+
 
 Visiting a friend in Jerusalem’s Christian Quarter, I notice a photo of St. George slaying the dragon tacked outside his door. On the rusty nail fixing the photo to the sun-bleached board hangs a small black bracelet with a silver cross. His apartment is owned by Copts, an ancient Christian community from Egypt. We see one out in the main alley, decked in an all-black *galabeya* with a large cross dangling from his neck. To get to the apartment, we open an inconspicuous steel door that feels like a portal to another world. The slippery, pockmarked stone presses in on a narrow, steep flight of stairs with old iron rails ascending to a square-foot courtyard where the only burst of color is a young lime tree protecting the clay-potted plants underneath.
 
@@ -92,16 +104,18 @@ When I ask what he does all day, he delivers a halting monologue in English: “
 
 For dinner, we go to the American Colony Hotel. Much like restaurants in America, the cocktails are expertly done, while the food fails to be something to write home about. Outside after dinner, my friend points in the direction of a sign beside a gas station just beyond the roundabout which reads: SHEIKH JARRAH.
 
-**`<br/>`**
+<br>
+
 
 **“ETZEL TZION”**
 
-**`<br/>`**
+
+<br>
 
 Israeli folk singer Meir Ariel’s track “Etzel Tzion” puts to song the reality of a multicultural Israel through the metaphor of a hummusiya. The restaurant is real, a block off Trumpeldor Beach, and nearly a quarter century after he released the track in 1997, it’s still in operation right next to the post office as he describes in the first line. The story is like many of Ariel’s tracks: the lyrics belying a surface simplicity are embedded with deeply layered commentary on Israeli society employing double meanings, ironies, and biting satire.
 
-              The idea behind the song is that at Etzel Tzion––a place where they put “a lot of love on the plate for a little bit of money”, a place where “before you order, the owner offers and does not let you wait”––everybody is an equal, no matter your political leanings, ideologies, backgrounds, or biases. You come to fill up on hummus and malted beer, then go back to your life. He compiles a list of those who come together for the hummus there including: leftys, rightys, Romanians, Bosnian-Serbs, terrorists, retirees, and the neighborhood-identified Bograshovists, Ben-Yehudaim, and Ness Zionaim. No one at Etzel Tzion dries up. No one at Etzel Tzion is embarrassed. These are my rough translations.
+The idea behind the song is that at Etzel Tzion––a place where they put “a lot of love on the plate for a little bit of money”, a place where “before you order, the owner offers and does not let you wait”––everybody is an equal, no matter your political leanings, ideologies, backgrounds, or biases. You come to fill up on hummus and malted beer, then go back to your life. He compiles a list of those who come together for the hummus there including: leftys, rightys, Romanians, Bosnian-Serbs, terrorists, retirees, and the neighborhood-identified Bograshovists, Ben-Yehudaim, and Ness Zionaim. No one at Etzel Tzion dries up. No one at Etzel Tzion is embarrassed. These are my rough translations.
 
-             And shouldn’t that be the message advertised about Israel? A country constantly translating itself. A country brimming with everyone’s up-to-11 feedback. A country where we all feel the same plug of hummus in our digestive systems, and we put aside differences––not naively, but in hedging hope––to wipe clean our plates.
+And shouldn’t that be the message advertised about Israel? A country constantly translating itself. A country brimming with everyone’s up-to-11 feedback. A country where we all feel the same plug of hummus in our digestive systems, and we put aside differences––not naively, but in hedging hope––to wipe clean our plates.
 
 <!--EndFragment-->
