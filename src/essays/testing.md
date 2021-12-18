@@ -16,7 +16,7 @@ author: Royee Zvi Atadgy
 
 <br>
 
-In the middle of the Seder, I get up from the table to retrieve the complimentary earplugs wedged inside the pocket of a pair of pants worn on the El Al flight a month prior. I tear the packaging and plug my ears, muffling the sound filling the raucous room. I return to the table just as my aunt, adorned in gold bangles and earrings, is circling the Seder plate above the children’s heads for the *Bibhilu*. She pauses and turns to me laughing.
+In the middle of the Seder, I get up from the table to retrieve the complimentary earplugs wedged inside the pocket of a pair of pants worn on the El Al flight a month prior. I tear the packaging and plug my ears, muffling the sound filling the raucous room. I return to the table just as my aunt, adorned in gold bangles and earrings, is circling the Seder plate above the children’s heads for the *Bibhilu*. She pauses and turns to me, laughing.
 
 “What’s with the earplugs?”
 
