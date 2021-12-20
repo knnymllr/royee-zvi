@@ -1,6 +1,7 @@
 {
     "layout":"layouts/story",
     "tags":"stories",
+    "weight": "",
     "author": "{{ site.title }}",
     "date": ""
 }

@@ -36,6 +36,27 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/img");
   eleventyConfig.addPassthroughCopy("src/fonts");
 
+  eleventyConfig.addCollection("essays", function(collection) {
+    let pages = collection.getFilteredByTag("essays");
+    return pages.sort(function (a,b) {
+      return a.data.weight - b.data.weight;
+    })
+  })
+
+  eleventyConfig.addCollection("published", function(collection) {
+    let pages = collection.getFilteredByTag("published");
+    return pages.sort(function (a,b) {
+      return a.data.weight - b.data.weight;
+    })
+  })
+
+  eleventyConfig.addCollection("stories", function(collection) {
+    let pages = collection.getFilteredByTag("stories");
+    return pages.sort(function (a,b) {
+      return a.data.weight - b.data.weight;
+    })
+  })
+
   return {
     dir: {
       input: "src"

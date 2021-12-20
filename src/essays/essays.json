@@ -1,6 +1,7 @@
 {
     "layout":"layouts/story",
     "tags":"essays",
+    "weight": "",
     "author": "{{ site.title }}",
     "date": "",
     "publication": "",
