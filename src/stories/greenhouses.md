@@ -15,6 +15,7 @@ description: Looking after the greenhouses that summer with Leann. I thought it
   she finally got her head through the loop in the hose and shoved off from the
   table she was standing on, her head slipped right out and she landed on her
   back, into a table of succulents...
+weight: "100"
 ---
 Looking after the greenhouses that summer with Leann. I thought it was what we both needed. What she needed, especially. But three weeks in, on a humid and rainy morning, we got real drunk on some bottles of wine we found in the dumpster behind the winery down the road. I licked some out of her navel. She lapped some out of my hand. We drew a bath and listened to the rain hammering down. And in the afternoon, after napping a bit, Leann went to the greenhouse to check the thermometers. She said she’d be right back to try and sleep some more, but after she didn’t show for almost twenty minutes, I went to check on her. That’s when I saw the long green hose strung up to the rafters and Leann trying to hang herself with it. I say trying because when she finally got her head through the loop in the hose and shoved off from the table she was standing on, her head slipped right out and she landed on her back, into a table of succulents.
 
