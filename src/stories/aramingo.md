@@ -10,7 +10,7 @@ description: It was a very small and impossible thing to find, but aren’t thos
   to you. 4421 Aramingo, that immortal junkyard where they dispatched cabs.
   Where dirty-shirted immigrants who looked like my uncles all crowded around as
   we walked through...
-weight: "100"
+weight: "500"
 ---
 
 It was a very small and impossible thing to find, but aren’t those the things that sear you with its unwanted surprise? An old business card from a Turkish restaurant that has since been shuttered. The food on the poor side, the company never better. It was wedged in a book of poems by e.e. cummings. Fell out during the move. On the back, a messy address that is linked forever to you. 4421 Aramingo, that immortal junkyard where they dispatched cabs. Where dirty-shirted immigrants who looked like my uncles all crowded around as we walked through. 
