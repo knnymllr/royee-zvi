@@ -1,6 +1,20 @@
 ---
 title: Picture This
-description: Three men all hugging and crying in the living room; my father, my brother, and me. The last time I saw it was when the Phillies won the World Series. But this was not that. Mother died, father said, and apologized as if he thought we thought it was his fault, like it wasn’t cancer but some negligence of his, like he forgot to replace batteries in a smoke alarm. As if we didn’t already know why we were woken up in the middle of the night! Why I was woken up, I mean. I had just been there a few hours before, turning on the fan for my mother by her bed and then asking if she needed anything else, and after my mother gasped the word “water” I got her a glass half full. And later, having to go get my brother out of work and drive for an hour from our small town to their small town, thinking there is still a chance that she was alive...
+date: 2022-04-01T18:58:37.202Z
+author: " "
+description: Three men all hugging and crying in the living room; my father, my
+  brother, and me. The last time I saw it was when the Phillies won the World
+  Series. But this was not that. Mother died, father said, and apologized as if
+  he thought we thought it was his fault, like it wasn’t cancer but some
+  negligence of his, like he forgot to replace batteries in a smoke alarm. As if
+  we didn’t already know why we were woken up in the middle of the night! Why I
+  was woken up, I mean. I had just been there a few hours before, turning on the
+  fan for my mother by her bed and then asking if she needed anything else, and
+  after my mother gasped the word “water” I got her a glass half full. And
+  later, having to go get my brother out of work and drive for an hour from our
+  small town to their small town, thinking there is still a chance that she was
+  alive...
+weight: "4"
 ---
 
 Three men all hugging and crying in the living room; my father, my brother, and me. The last time I saw it was when the Phillies won the World Series. But this was not that. Mother died, father said, and apologized as if he thought we thought it was his fault, like it wasn’t cancer but some negligence of his, like he forgot to replace batteries in a smoke alarm. As if we didn’t already know why we were woken up in the middle of the night! Why I was woken up, I mean. I had just been there a few hours before, turning on the fan for my mother by her bed and then asking if she needed anything else, and after my mother gasped the word “water” I got her a glass half full. And later, having to go get my brother out of work and drive for an hour from our small town to their small town, thinking there is still a chance that she was alive. 
@@ -95,8 +109,4 @@ This is what I am thinking about as I look at the photo albums. There are the co
 
 It starts to get dark. The sun is setting on the day which is the first day of our new life without a mother or wife or sister. It is about the time that she would be walking through the door after work, exhausted, prepared to do nothing but walk up to the bedroom, turn out the lights, and watch her soap operas. She was probably a little depressed. When I think of myself and I think of my mother it is very likely that the largest inheritance from her is depression. 
 
-Now picture what no one could have pictured. We’re about done with the photo albums when it happens. We went through the motions of the day. We did our familial duty. In a lot of ways, our day was no different from any other day for a family mourning a loss. Except when we hear my mother’s cell phone going off in the upstairs bedroom. Nobody moves. Nobody says a word. We let it ring. To me it is like a siren going off. It’s the first time I realize she’s gone, as in, forever. That it is permanent. That there is no one to pick up that phone. Somebody trying to get hold of her, not realizing she is dead. I could hear the clocks ticking. I could see the trees far out there in the darkness. We sat, all of us, not knowing what would happen next.
-
-At night, before I went to sleep, I took the folded eulogy from my jacket pocket, and looked at all the marks, whole parts crossed out, scrawled back in, words smashed up against each other, arrows flying in code known only to me. And a part that I had left crossed out and never revisited. My eyes straining through the ink, I read it silently to myself:
-
-“Days before she passed, we spoke about how I would carry on her personality. That while she would soon pass from this earth, my inheritance from her was still intact. Because she was within me, and I so obviously exemplified the lion’s share of her mannerisms. That I should embody a woman who was intelligent, nurturing, striving, dutiful to her family, good-natured, funny in her way, inquisitive, behind her stoic face a gratitude for others and for life, who endured all of this, and was stubborn to the end, is consolation in and of itself. There were times she told me not to grow up to be like her, and what she meant was in the ways she perceived to be negative. She knows me. Always a boy too melancholy for his years. A boy beyond his years, whose tendency to apply a heightened and somber significance toward everything might have made him miss the life happening beside him. I suppose we’ll just call it a work in progress.”
+Now picture what no one could have pictured. We’re about done with the photo albums when it happens. We went through the motions of the day. We did our familial duty. In a lot of ways, our day was no different from any other day for a family mourning a loss. Except when we hear my mother’s cell phone going off in the upstairs bedroom. Nobody moves. Nobody says a word. We let it ring. To me it is like a siren going off. It’s the first time I realize she’s gone, as in, forever. That it is permanent. That there is no one to pick up that phone. Somebody trying to get hold of her, not realizing she is dead. I could hear the clocks ticking. I could see the trees far out there in the darkness. We sat, all of us, not knowing what would happen next.
