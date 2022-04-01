@@ -95,7 +95,7 @@ Picture later the same day. Picture us looking at photo albums on the couch. The
 
 We’re flipping through them. My father, my brother, my aunt, and me. And it’s mostly laughs and smiles. Everyone is focused on only remembering these snapshots and how she looked in them but even with the evidence before me, far beyond a reasonable doubt, I cannot remember what she looked like prior to what she looked like in the days and weeks leading up to the end.
 
-I came home one day to my father cutting a plank of wood in the garage. He was always busy with his hands. I didn’t inherit his skill for craftsmanship. But that’s why he said I had better get good grades in college, so I could make enough money to pay someone else to do the work I couldn’t do. I got the grades, but not the money.
+I came home one day to my father cutting a plank of wood in the garage. He was always busy with his hands. I didn’t inherit his skill for craftsmanship. But that’s why he said I had better get good grades in college, so I could make enough money to pay someone else to do the work I couldn’t do. I made the grade, but not the money.
 
 “Another of your projects?” 
 
