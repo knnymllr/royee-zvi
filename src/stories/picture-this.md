@@ -93,9 +93,7 @@ My brother, for whom loss is a latent feeling, is out in the driveway playing ba
 
 Picture later the same day. Picture us looking at photo albums on the couch. These huge, distressed ring binders full of photographs that are supposed to give us an idea of what life was like. 
 
-We’re flipping through them. My father, my brother, my aunt, and me. And it’s mostly laughs and smiles. Everyone is focused on only remembering these snapshots and how she looked in them but even with the evidence before me, far beyond a reasonable doubt, I cannot remember what she looked like prior to what she looked like in the days and weeks leading up to the end.
-
-As her weight began drastically declining, the sight of her shuffling into the kitchen––dragging behind her the long translucent tube belonging to the oxygen machine, her shirt hanging loosely over her atrophied arms––not only stirred in me the normal feelings of a son for his mother, but made me pity her. And when she looked me in the eyes, I could sense that she was ashamed at how the roles had been reversed. Mother and son ruined forever. She was the child now. The pain and exhaustion of walking upstairs was to her not only a physical cruelty but an emotional one, too. I led her up each night by the arm. She stayed downstairs until bedtime when she would make the arduous walk up the stairs.
+We’re flipping through them. My father, my brother, my aunt, and me. And it’s mostly laughs and smiles. Everyone is focused on only remembering these snapshots and how she looked in them but even with the evidence before me, far beyond a reasonable doubt, I cannot remember what she looked like prior to what she looked like in the days and weeks leading up to the end.
 
 I came home one day to my father cutting a plank of wood in the garage. He was always busy with his hands. I didn’t inherit his skill for craftsmanship. But that’s why he said I had better get good grades in college, so I could make enough money to pay someone else to do the work I couldn’t do.
 
