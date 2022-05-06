@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2b710d87-4c03-4dbe-b268-d3156009db2b/deploy-status)](https://app.netlify.com/sites/silly-mirzakhani-1b9d13/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ef583838-7960-4676-a1d8-0b30cb871665/deploy-status)](https://app.netlify.com/sites/loving-elion-8936c6/deploys)
 # Royee Zvi Atadgy
 
 [Royee Zvi Atadgy website](https://royeezviatadgy.com/).
