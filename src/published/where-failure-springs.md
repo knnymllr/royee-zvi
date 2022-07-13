@@ -9,15 +9,12 @@ weight: "0"
 
 You do not know how I feel\
 if this is the world to come\
-if the afterlife is full of Saturdays like this                                                                                   
+if the afterlife is full of Saturdays like this \
+I'd believe in it
 
-I’d believe in it
-
-\
 yesterday, you davened\
 behind an archway\
-of pockmarked stone
-
+of pockmarked stone\
 smoothed with devotion\
 I sat there watching ants make trails in thousand-year moss\
 grown, like all of us, in the fault-lines\
@@ -29,8 +26,6 @@ sitting belly-stout with cigarettes,\
 throne-bound,\
 blowing smoke over produce and shouting\
 love into the Sabbath
-
-
 
 a pigeon picks its way westward\
 you point and say: “That bird is a Jewish bird”\
@@ -56,14 +51,9 @@ you asked could I feel the\
 change in the air––\
 what made it holy?
 
-
-
-and I am thinking, 
-
-this feels to me a question with two answers
-
-this feels to me a poem, not a story
-
+and I am thinking, \
+this feels to me a question with two answers\
+this feels to me a poem, not a story\
 instead, I say, “You do not know how I feel”\
 but you are sleeping already\
 five foot\
