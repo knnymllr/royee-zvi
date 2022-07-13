@@ -18,8 +18,8 @@ of pockmarked stone\
 smoothed with devotion\
 I sat there watching ants make trails in thousand-year moss\
 grown, like all of us, in the fault-lines\
-where failure springs\
-\
+where failure springs
+
 you braved the mass to reach\
 the charming hawkers\
 sitting belly-stout with cigarettes,\
