@@ -5,7 +5,7 @@ date: 2023-06-25T03:26:31.842Z
 author: Royee Zvi Atadgy
 weight: "1"
 ---
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -45,9 +45,9 @@ weight: "1"
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -626,9 +626,9 @@ weight: "1"
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -650,11 +650,9 @@ weight: "1"
 	mso-bidi-font-family:Arial;
 	mso-bidi-theme-font:minor-bidi;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
-
-
 
 **I.**
 
@@ -666,7 +664,7 @@ When he died, I wrote a eulogy. I’ll spare myself from revisiting it here. Thi
 
 **II.**
 
-Indeed, if my own father had not been a kibbutznik and then a soldier and then a jeweler and then a butcher and then a chef and then a handyman, I imagine he might have been Philip Roth. I could see myself as a small child stepping off the yellow bus in the Krewstown section of Northeast Philadelphia in the winter of 1970 to find him with his eyes in a book, lounging in a knockoff Eames chair, his eyes scanning pages, his pen in his mouth. I would have just come back early from school as Christmas break was about to begin, and although ours was a public school (named after Anne Frank no less), we had just made Santa Claus clocks out of paper plates and colored construction paper. Not immune to the Freudian impulse to please my father, to seek his approval, I would have proudly displayed my Santa clock to him, which he would take in his hands and say with his bushy eyebrows raised incredulously, “*This* is what they had you do today? What kind of public school is this? If I wanted you bring home Santa Claus clocks, I would have enrolled you at Maternity BVM.”
+Indeed, if my own father had not been a kibbutznik and then a soldier and then a jeweler and then a butcher and then a chef and then a handyman, I imagine he might have been Philip Roth. I could see myself as a small child stepping off the yellow bus in the Krewstown section of Northeast Philadelphia in the winter of 1970 to find him with his eyes in a book, lounging in a knockoff Eames chair, his eyes scanning pages, his pen in his mouth. I would have just come back early from school as Christmas break was about to begin, and although ours was a public school (named after Anne Frank no less), we had just made Santa Claus clocks out of paper plates and colored construction paper. Not immune to the Freudian impulse to please my father, to seek his approval, I would have proudly displayed my Santa clock to him, which he would take in his hands and say with his bushy eyebrows raised incredulously, “*This* is what they had you do today? What kind of public school is this? If I wanted you to bring home Santa Claus clocks, I would have enrolled you at Maternity BVM.”
 
 My father. Always so direct and to the point, his emotions cold and unmasked, making my ability to live up to his high standards––or impress him––a losing game. Applying myself to the scholastic endeavor, I always achieved high marks. I wanted him to admire my scholarship, even at age six, even as I proudly displayed for him my A-minus to hear him reply with the same tired joke, “What happened to the plus?” He was a rough-hewn, uneducated man which is why he valued my education and put it before most everything else. He did not want me to turn out to be in his position––working as an office manager at the Nabisco factory down the boulevard, having given up on the higher aim of literature. Each day, he would come home smelling of fresh-baked cookies instead of book pages. He had never gone to college, had barely completed high school. His knowledge was based in a random absorption of things that caught his attention like architecture or American history. This is how knowledge came to him––floating to him off the surface of lived experience. I did not gain the gene of street smarts that was afforded to him as a working class boy in Newark’s Weequahic section. This caused an imbalance between us.
 
