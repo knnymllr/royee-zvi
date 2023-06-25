@@ -1,6 +1,9 @@
 ---
 title: Everything You Are is a Fiction
 publication: from Daedalus Literary Magazine
+date: 2023-06-25T03:56:27.436Z
+author: Royee Zvi Atadgy
+weight: "4"
 ---
 
 The obsession with a town begins like this:
