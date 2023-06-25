@@ -1,6 +1,6 @@
 ---
 title: Audrey Claire
-publication: Literati
+publication: from Literati
 date: 2023-06-25T03:54:13.909Z
 author: Royee Zvi Atadgy
 weight: "1"
