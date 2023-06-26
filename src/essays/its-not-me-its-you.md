@@ -750,6 +750,6 @@ Speaking to *The New Yorker,* author Lori Gottlieb says that the problem with th
 
  
 
-At the heart of it all is a fundamental issue with not only the way we use language, but how we read, comprehend, and interpret it. We suffer from a lack of context. We skim click-bait headlines. We digest tweets. We are misinformed, underinformed, and overinformed. We want knowledge without having to work for it. We want to heal linearly. And, worst of all, ee’ve mistaken accessibility to truth as truth itself.
+At the heart of it all is a fundamental issue with not only the way we use language, but how we read, comprehend, and interpret it. We suffer from a lack of context. We skim click-bait headlines. We digest tweets. We are misinformed, underinformed, and overinformed. We want knowledge without having to work for it. We want to heal linearly. And, worst of all, we’ve mistaken accessibility to truth as truth itself.
 
 <!--EndFragment-->
