@@ -2,7 +2,7 @@
 title: An Even, Perfect Burn
 publication: from Cleaver Magazine
 date: 2023-06-25T03:55:59.580Z
-author: Royee Zvi Atadgy
+author: Royee Zvi Atedgi
 weight: "3"
 ---
 Come here, he said.
