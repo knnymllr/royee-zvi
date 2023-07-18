@@ -2,7 +2,7 @@
 title: "Multicultural Israel: An Examination in Seven Vignettes"
 publication: The Lechter Institute
 date: 2021-12-17T12:52:34.027Z
-author: Royee Zvi Atadgy
+author: Royee Zvi Atedgi
 weight: "4"
 ---
 **MULTICULTURAL ISRAEL:**
