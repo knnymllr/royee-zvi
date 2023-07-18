@@ -2,7 +2,7 @@
 title: Looking at Roth
 publication: Collected
 date: 2023-06-25T03:26:31.842Z
-author: Royee Zvi Atadgy
+author: Royee Zvi Atedgi
 weight: "1"
 ---
 <!--\\\[if gte mso 9]><xml>
