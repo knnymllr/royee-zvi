@@ -2,7 +2,7 @@
 title: It's Not Me, It's You
 publication: Collected
 date: 2023-06-25T03:41:53.949Z
-author: Royee Zvi Atadgy
+author: Royee Zvi Atedgi
 weight: "2"
 ---
 <!--\[if gte mso 9]><xml>
