@@ -2,7 +2,7 @@
 title: Where Failure Springs
 publication: from Write-Haus
 date: 2022-07-13T11:28:10.551Z
-author: Royee Zvi Atadgy
+author: Royee Zvi Atedgi
 weight: "1"
 ---
 *for Luli*
