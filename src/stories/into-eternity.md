@@ -676,7 +676,8 @@ Supposedly the land of milk and honey. I look down into the courtyard where peop
 
  
 
-I hold her. And I thought it during the plane ride over looking at the first pictures and my aunt thought it too but waited for me to get here (airport—> train—> two buses with recalcitrant drivers) until she could no longer hold it in, had the gall and the bravery to say yes, look, from this angle she looks just like your mother when she was a baby. My aunt is higher than my mother. By ten years and now six feet. When she says it and I look at the baby, the strange sensation befalls me that my mother has been reborn and I am raising her anew. There she goes, spitting up her milk on me.
+I hold her. And I thought it during the plane ride over looking at the first pictures and my aunt thought it too but waited for me to get here 
+(airport—> train—> two buses with recalcitrant drivers) until she could no longer hold it in, had the gall and the bravery to say yes, look, from this angle she looks just like your mother when she was a baby. My aunt is higher than my mother. By ten years and now six feet. When she says it and I look at the baby, the strange sensation befalls me that my mother has been reborn and I am raising her anew. There she goes, spitting up her milk on me.
 
  
 
