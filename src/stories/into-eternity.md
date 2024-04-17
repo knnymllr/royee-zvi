@@ -2,7 +2,7 @@
 title: Into Eternity
 date: 2024-04-17T15:09:23.965Z
 author: Royee Zvi Atedgi
-description: >+
+description: >
   Supposedly the land of milk and honey. I look down into the courtyard where
   people are sundials with stubbed shadows. There’s a woman scraping bird shit
   off the glass borders of her balcony across from me with a dustpan. A Labrador
@@ -13,41 +13,7 @@ description: >+
   There’s a new relation, reason I’m here. Had to look up what it means when
   it’s your cousin’s child. What is she to me I mean or what are we to each
   other besides blood? I wonder.
-
-
-  I hold her. And I thought it during the plane ride over looking at the first pictures and my aunt thought it too but waited for me to get here (airport—> train—> two buses with recalcitrant drivers) until she could no longer hold it in, had the gall and the bravery to say yes, look, from this angle she looks just like your mother when she was a baby. My aunt is higher than my mother. By ten years and now six feet. When she says it and I look at the baby, the strange sensation befalls me that my mother has been reborn and I am raising her anew. There she goes, spitting up her milk on me.
-
-
-  My aunt remembers her as a baby which is to say she remembers who she was when my mother was a baby and who she was was a Polish teenager secretly fidgeting with the radio at night to get the British stations under Communism. When Gomułka made it unbearable they came here. My mother was four. Let me describe it some more: there’s a hillside of Spanish-roofed homes sweeping upward with sights to the sea. Beyond that, on the mountain, is the university. There is drilling going on. There are banners left over from Independence Day. Seventy-five is hardly history, speaking time-wise. I go to get my binoculars, which is hardly advisable. Blocks of old brutalist tenements sit squat with their clotheslines like floss, looking thrown together at the last minute of the past or the first minute of forever but either way couldn’t wait for them to rise. Matzah architecture. Pomegranates hang wisely with their crowns down, and, on the high cliff of ancient stone across the road, the leaves flip on olive trees tremoring in dry wind. This painted frog I’ve scoped on the balcony corner across from me is green and wet in the way of porcelain. 
-
-
-  I’m thinking of joining a protest tomorrow, just any one. Or speed to the Dead Sea. I’m at my lowest point so why not be at my lowest point at the lowest point so that I’m lower than low? I want its mud on me for therapeutic purposes, for how winter savages the skin. I want to fry lobster-red before Memorial Day. I hear the little carousel in the kitchen go off with music. The baby is kicking and winding herself up in there. I get her to look at me. When I turn away she curls her lip and cries. That’s my mother, all right. I hear a solitary shout from one of the  neighbors. A murderous yell then silence. This is normal daytime stuff out here. This is this country’s fifth language. Hebrew, Arabic, Russian, English, and Yelling. The sixth is Cars Honking. For lunch we are having soup. It is twenty-five degrees Celsius for crying out loud. For my friends who measure imperially––this is comically hot for a day of soup. 
-
-
-  Let me let you in on how this language amuses. The Hebrew word for soup is marak. The Hebrew word for almonds is shkedim. The croutons they put in the soup—tiny, yellow, like pillows you’d imagine ants would put their heads on to sleep—they call shkedei marak. I’ve been told not to give the reader 4 but 2+2. I stay awake till five. I hear the Fajr sound while I watch the Sixers blow it––again––in the second round. There are seven tall apartment buildings around me, cranes like lures orchestrate around them, and they too have their balconies. Some of them are higher than me. And no doubt can see into me. But privacy isn’t promised in their contracts either; the pigeons make sure of that. 
-
-
-  On the table: smudged colors on the good china from dessert, the torn sugars, our coffee cups dried with stains people swear they find faces in. My aunt is humming a tune to the baby. I think I know it. It’s wedged at the edge of memory––a lullaby in Polish that traveled down the women’s tongues to the babies’ ears and so forth. Here’s the translation:
-
-
-  Aa-ah-ah, two kittens
-
-  Both mottled grey
-
-  They won’t do anything
-
-  but entertain you. 
-
-
-  I won’t bother with the Polish. My aunt says you need a good dentist the way your teeth move pronouncing things. My mother who is resembled in the turn of the head of the baby once knew and then lost her toddler Polish when they…now I’m doubling down. But see something now: my timing is impeccable––rockets are flying again. I think I’ll head down to the beach, see some intercepted into dust. Maybe I’ll stay and nap in the afternoon like the storeowners letting the gates fly down on their stores.
-
-
-  I fly from serious conviction to serious doubt. It only goes that one way though, thank god. There’s a cat outside with its eyes gone looking at me. I know the feeling exactly. You ever crave something so bad—chocolates, the sea, discipline—that you get this sting of anticipation at the backs of your jaws?
-
-
-  On the bus to the beach, the people are all like me. I could pick them out of a lineup. These are my people, for better but especially for worse. A blind man is chanting in what I don’t know is a prayer—for what? For the driver not to skip his stop? For his bank transfer to be smooth? For all of our good luck, into eternity, amen?
-
-weight: "0"
+weight: "1"
 ---
 <!--\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
