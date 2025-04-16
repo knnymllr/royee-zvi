@@ -45,7 +45,7 @@ I looked around the table, first at Connor, then at Jess. All I saw were uncomfo
 
 How did I know it was wrong? I didn’t tell my parents. That was my first clue that something here was not right. But I figured they had enough to deal with. Both worked long hours at a deli with my uncle. My mother rang up ryes at the register and my father sliced meat with his brother.
 
-Ours was not unlike many immigrant stories. I straddled two worlds. My parents were secular Israelis. We observed the major holidays but nothing more, and even those we did with little effort. Both had packaged their Judaism into such small parcels that I imagined they kept them down in the basement with the Hannukah decorations, taken out only on special occasions. I had aspirations to make mine smaller still. I wanted to be American, not Jewish. Back then, I thought history was a sheddable thing.
+Ours was not unlike many immigrant stories. I straddled two worlds. My parents were secular Israelis. We observed the major holidays but nothing more, and even those we did with little effort. Both had packaged their Judaism into such small parcels that I imagined they kept them down in the basement with the Hannukah decorations. I had aspirations to make mine smaller still. I wanted to be American, not Jewish. Back then, I thought history was a sheddable thing.
 
 I knew I had about thirty minutes until my mother came home. I went up to my room with the piece of paper Sue gave me, and began to recite what she’d written for me to say:
 
